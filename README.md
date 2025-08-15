@@ -39,6 +39,6 @@ Evaluates proposals against multiple weighted criteria:
 1. **Input** – Upload design documentation (narratives, drawings, BIM exports, or 3D models).  
 2. **Analysis** – archritique ai applies computational evaluation methods across structural, spatial, aesthetic, and contextual dimensions.  
 3. **Output** – Receive a detailed, professional-grade critique with:  
-   - Objective scoring across multiple design principles  
-   - Spatial and structural feasibility analysis  
-   - Targeted recommendations for refinement 
+   - Objective scoring across multiple design principles!
+   - Spatial and structural feasibility analysis!
+   - Targeted recommendations for refinement!
